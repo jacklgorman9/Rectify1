@@ -1,0 +1,8 @@
+<!-- predictor.html file -->
+<!DOCTYPE html>
+<html lang="en">
+<p> Here are my predictions!
+<br>
+{{ chat_in }}
+{{ prediction[0]['prob'] }} 
+</p>
